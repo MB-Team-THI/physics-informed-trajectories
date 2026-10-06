@@ -1,0 +1,13 @@
+numpy
+torch
+torchvision
+scipy
+einops
+x_transformers
+opencv-python
+matplotlib
+seaborn
+imageio
+tqdm
+tensorboard
+torchnet
